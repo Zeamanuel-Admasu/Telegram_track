@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Your bot token from BotFather
-BOT_TOKEN = "7712509822:AAFfFaPH4vLFjKJbuCNoRGHh3J58Xb1Nhrg"
+BOT_TOKEN = "BOT-TOKEN"
 
 # Initialize the bot application
 app = Application.builder().token(BOT_TOKEN).build()
